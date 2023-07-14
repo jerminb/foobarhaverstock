@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">foobar</string>
+    <string name="action_refresh">action_refresh</string>
+    <string name="action_settings">settings</string>
+</resources>

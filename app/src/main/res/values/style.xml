@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="FooBarToolBarTheme" parent="ThemeOverlay.AppCompat.ActionBar">
+        <item name="android:tint">@color/white</item>
+    </style>
+</resources>

@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:minHeight="?attr/actionBarSize"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:titleTextColor="@android:color/white"
+        android:background="?attr/colorPrimary"
+        android:theme="@style/FooBarToolBarTheme"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"/>
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/mail_fab"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="end"
+        android:layout_marginEnd="16dp"
+        android:layout_marginBottom="16dp"
+        android:src="@drawable/ic_mail"
+        app:backgroundTint="@color/purple_500"
+        app:fabSize="normal"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+    <LinearLayout
+        android:id="@+id/llps"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/toolbar">
+
+        <TextView
+            android:id="@+id/tvPasses"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="10px"
+            android:paddingTop="10px"
+            android:textSize="32dp"
+            android:text="Passes:" />
+
+        <TextView
+            android:id="@+id/txtPasses"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toEndOf="@+id/tvPasses"
+            android:paddingLeft="10px"
+            android:paddingTop="10px"
+            android:textSize="32dp"
+            android:text="000" />
+
+        <TextView
+            android:id="@+id/tvShots"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="10px"
+            android:paddingTop="10px"
+            android:textSize="32dp"
+            android:text="Shots:" />
+
+        <TextView
+            android:id="@+id/txtShots"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toEndOf="@+id/tvPasses"
+            android:paddingLeft="10px"
+            android:paddingTop="10px"
+            android:textSize="32dp"
+            android:text="000" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/cc"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/llps">
+        <TextView
+            android:id="@+id/tvCarries"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="10px"
+            android:paddingTop="10px"
+            android:textSize="32dp"
+            android:text="Carries:" />
+
+        <TextView
+            android:id="@+id/txtCarries"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toEndOf="@+id/tvPasses"
+            android:paddingLeft="10px"
+            android:paddingTop="10px"
+            android:textSize="32dp"
+            android:text="000" />
+
+        <TextView
+            android:id="@+id/tvCrosses"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="10px"
+            android:paddingTop="10px"
+            android:textSize="32dp"
+            android:text="Crosses:" />
+
+        <TextView
+            android:id="@+id/txtCrosses"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toEndOf="@+id/tvPasses"
+            android:paddingLeft="10px"
+            android:paddingTop="10px"
+            android:textSize="32dp"
+            android:text="000" />
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/pl"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/cc">
+        <TextView
+            android:id="@+id/tvPlays"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="10px"
+            android:paddingTop="10px"
+            android:textSize="32dp"
+            android:text="Plays:" />
+
+        <TextView
+            android:id="@+id/txtPlays"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toEndOf="@+id/tvPasses"
+            android:paddingLeft="10px"
+            android:paddingTop="10px"
+            android:textSize="32dp"
+            android:text="000" />
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>
