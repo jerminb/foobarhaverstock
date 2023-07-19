@@ -1,0 +1,14 @@
+{
+	"date": "2021-09-16",
+	"season": "ending 2021-09-23",
+	"opposition": "Hackney Tropics",
+	"score": "1-10",
+	"GF": 1,
+	"GA": 10,
+	"goalscorers": {"Alkeos":1},
+	"players": ["James", "Jermin", "Tom", "Mo", "Behdad", "Fred", "Alkeos"],
+	"keepers": ["Jermin", "Jermin"],
+	"points": 0,
+	"league_position": 8,
+	"match_cancellation": "False"
+}

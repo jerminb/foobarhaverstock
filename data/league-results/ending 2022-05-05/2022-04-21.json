@@ -1,0 +1,18 @@
+{
+	"date": "2022-04-21",
+	"season": "ending 2022-05-05",
+	"opposition": "Atleti De Izzy",
+	"score": "2-4",
+    "interval scores": {"1st half":"1-3", "2nd half":"1-1"},
+	"GF": 2,
+	"GA": 4,
+	"goalscorers": {"James": 1, "Lenny": 1},
+	"assists": {"Harry":2},
+	"players": ["James", "Matt", "Yomi", "Harry", "Jermin", "Fred", "Lenny"],
+	"keepers": ["Matt", "Matt"],
+	"points": 0,
+	"league_position": 8,
+	"match_cancellation": "False",
+	"formation": {"1st half":"2-3-1", "2nd half":"2-3-1"},
+	"notes": "Really good performance inspite of the result. We kept our shape well, and cut out a lot of errors (although we did conceded 1 from a crossfield pass which could of been avoided). Harry was particularly good in midfield, and we were promising going forward. 2 goals is the most we've scored against Atleti De Izzy. A small nitpick is that we keep lunging into tackles when we're defending: we should instead stand our ground against attacking players and focus on keeping goalside."
+}

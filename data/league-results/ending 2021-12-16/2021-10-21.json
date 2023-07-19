@@ -1,0 +1,15 @@
+{
+	"date": "2021-10-21",
+	"season": "ending 2021-12-16",
+	"opposition": "London FC",
+	"score": "3-2",
+	"GF": 3,
+	"GA": 2,
+	"goalscorers": {"James":1, "Tom":1, "Fred":1},
+	"assists": {"Tim":2},
+	"players": ["Lorenzo", "Tom", "James", "Fred", "Chris", "Jermin", "Tim", "Alkeos"],
+	"keepers": ["Lorenzo", "Lorenzo"],
+	"points": 3,
+	"league_position": 4,
+	"match_cancellation": "False"
+}

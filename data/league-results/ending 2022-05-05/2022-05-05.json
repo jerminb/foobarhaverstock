@@ -1,0 +1,18 @@
+{
+	"date": "2022-05-05",
+	"season": "ending 2022-05-05",
+	"opposition": "Unprotected Cesc Thursday",
+	"score": "4-4",
+    "interval scores": {"1st half":"3-3", "2nd half":"1-1"},
+	"GF": 4,
+	"GA": 4,
+	"goalscorers": {"Yomi": 1, "Rajay": 1, "James": 1, "Lenny": 1},
+	"assists": {"Rajay":2},
+	"players": ["James", "Matt", "Yomi", "Rajay", "Jermin", "Fred", "Alkeos", "Lenny"],
+	"keepers": ["Matt", "Matt"],
+	"points": 1,
+	"league_position": 8,
+	"match_cancellation": "False",
+	"formation": {"1st half":"3-2-1", "2nd half":"3-2-1"},
+	"notes": "A great game, and one we should of possibly won. Finshing could of been better (myself in-particular!). Nice to get a point from this fixture given we humped by these guys last time. We went 2-0 down initially, so showed character to get back into to it. We conceded by another long ball, and we had an own goal. Our defense was generally good, but we could be a little tighter."
+}

@@ -1,0 +1,18 @@
+{
+	"date": "2022-06-30",
+	"season": "ending 2022-09-01",
+	"opposition": "Unprotected Cesc Thursday",
+	"score": "3-6",
+    "interval scores": {"1st half":"2-2", "2nd half":"1-4"},
+	"GF": 3,
+	"GA": 6,
+	"goalscorers": {"Yomi": 1, "Taiga": 1, "James": 1},
+	"assists": {"Bibi":1},
+	"players": ["James", "Elliot", "Yomi", "Bibi", "Taiga", "Zak", "Alkeos", "Craig"],
+	"keepers": ["Elliot", "Elliot"],
+	"points": 0,
+	"league_position": 8,
+	"match_cancellation": "False",
+	"formation": {"1st half":"2-3-1", "2nd half":"2-3-1"},
+	"notes": "Unprotected Cesc is always a tough fixture, and setting up for this one was hard given that there was no recognised centrebacks in our team. Taiga & myself deciced on being the 2 at the back for this one. Santos was a handful, but we contained him reasonably well. Retrospectively, not sure why we didn't man mark him at the outset."
+}

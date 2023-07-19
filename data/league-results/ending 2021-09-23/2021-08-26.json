@@ -1,0 +1,14 @@
+{
+	"date": "2021-08-26",
+	"season": "ending 2021-09-23",
+	"opposition": "Timo up front",
+	"score": "3-7",
+	"GF": 3,
+	"GA": 7,
+	"goalscorers": {"James":1, "Fred":1, "Lenny":1},
+	"players": ["Lorenzo", "Jermin", "Behdad", "James", "Tim", "Fred", "Tom", "Lenny"],
+	"keepers": ["Behdad", "Behdad"],
+	"points": 0,
+	"league_position": 8,
+	"match_cancellation": "False"
+}

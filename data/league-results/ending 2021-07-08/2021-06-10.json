@@ -1,0 +1,14 @@
+{
+	"date": "2021-06-10",
+	"season": "ending 2021-07-08",
+	"opposition": "Brian Munich",
+	"score": "5-2",
+	"GF": 5,
+	"GA": 2,
+	"goalscorers": {"Paz":2, "James":1, "Fred":1, "Alkeos":1},
+	"players": ["Will", "Fred", "Mo", "James", "Jermin", "Paz", "Alkeos", "Behdad"],
+	"keepers": ["Fred", "Behdad"],
+	"points":3,
+	"league_position": 10,
+	"match_cancellation": "False"
+}

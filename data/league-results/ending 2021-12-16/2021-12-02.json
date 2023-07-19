@@ -1,0 +1,16 @@
+{
+	"date": "2021-12-02",
+	"season": "ending 2021-12-16",
+	"opposition": "Timo up front",
+	"score": "3-2",
+	"GF": 3,
+	"GA": 2,
+	"goalscorers": {"James":3},
+	"assists": {"Tom":1},
+	"players": ["Tom", "Alkeos", "Jermin", "Fred", "Matt", "Taiga", "James"],
+	"keepers": ["Matt", "Matt"],
+	"points": 3,
+	"league_position": 5,
+	"match_cancellation": "False",
+	"formation": "3-2-1"
+}

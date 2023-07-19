@@ -1,0 +1,18 @@
+{
+	"date": "2022-12-01",
+	"season": "ending 2022-12-15",
+	"opposition": "Stag FC",
+	"score": "4-3",
+    "interval scores": {"1st half":"2-1", "2nd half":"2-2"},
+	"GF": 4,
+	"GA": 3,
+	"goalscorers": {"Paz":2, "Tom":1, "Zak":1},
+	"assists": {"Tom":1, "Zak":1},
+	"players": ["Yomi", "Matt", "Tom", "Zak", "Taiga", "Paz", "Jermin", "Eric"],
+	"keepers": ["Matt", "Matt"],
+	"points": 3,
+	"league_position": 5,
+	"match_cancellation": "False",
+	"formation": {"1st half":"3-2-1", "2nd half":"3-2-1"},
+	"notes": "A gritty win. Although we didn't perform at our best, we managed to holdon an get the 3 points. We had initially comtemplated going with the a 2-2-2 formation in the 2nd half, but with match being as tight as it was, we collectively decided to keep the 3-2-1. Eric had a good debut, & Matt was outstanding (he kept us in it). However, out passsing was shocking - we've got to sort this out & work to keep possession better. Our midfeilders finished excellently, but pushed very far forward (this created an issue in the transition as they were often behind the ball, which left us vunerable to counterattacks which we conceded from). This win moved us up to 5th. Paz was awarded the PoM, which was the first time one of our players was awarded the PoM this season."
+}

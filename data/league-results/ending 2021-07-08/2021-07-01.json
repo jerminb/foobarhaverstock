@@ -1,0 +1,14 @@
+{
+	"date": "2021-07-01",
+	"season": "ending 2021-07-08",
+	"opposition": "SSEES Seniors",
+	"score": "2-6",
+	"GF": 2,
+	"GA": 6,
+	"goalscorers": {"Paz":2},
+	"players": ["Mo", "Behdad", "Alvaro", "James", "Jermin", "Paz", "Alvaro", "Tim"],
+	"keepers": ["James", "Tim"],
+	"points":0,
+	"league_position": 10,
+	"match_cancellation": "False"
+}

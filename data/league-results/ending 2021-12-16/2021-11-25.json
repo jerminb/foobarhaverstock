@@ -1,0 +1,16 @@
+{
+	"date": "2021-11-25",
+	"season": "ending 2021-12-16",
+	"opposition": "Olympique de Chalk Farm",
+	"score": "0-6",
+	"GF": 0,
+	"GA": 6,
+	"goalscorers": {},
+	"assists": {},
+	"players": ["Mo", "Alkeos", "Jermin", "Fred", "Harry", "Taiga", "James", "Lorenzo"],
+	"keepers": ["Jermin", "Jermin"],
+	"points": 0,
+	"league_position": 6,
+	"match_cancellation": "False",
+	"formation": "3-2-1"
+}

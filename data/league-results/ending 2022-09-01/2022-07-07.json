@@ -1,0 +1,17 @@
+{
+	"date": "2022-07-07",
+	"season": "ending 2022-09-01",
+	"opposition": "Cannabinieros",
+	"score": "2-6",
+	"GF": 2,
+	"GA": 6,
+	"goalscorers": {"Zak":1, "Yomi":1},
+	"assists": {},
+	"players": ["Yomi", "Zak", "Jermin", "Lorenzo", "Bibi", "Rajay", "Alkeos", "James", "Janneh"],
+	"keepers": ["Alkeos", "Lorenzo"],
+	"points": 0,
+	"league_position": 11,
+	"match_cancellation": "False",
+	"formation": "2-3-1",
+	"notes": ""
+}

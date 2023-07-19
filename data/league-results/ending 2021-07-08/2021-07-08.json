@@ -1,0 +1,14 @@
+{
+	"date": "2021-07-08",
+	"season": "ending 2021-07-08",
+	"opposition": "Club De Futbol Koi Bois",
+	"score": "9-0",
+	"GF": 9,
+	"GA": 0,
+	"goalscorers": {"Paz":3, "James":3, "Lorenzo":1, "Lenny":1, "Tim":1},
+	"players": ["Mo", "Will", "Lorenzo", "James", "Jermin", "Paz", "Lenny", "Tim"],
+	"keepers": ["Lorenzo", "Mo"],
+	"points":3,
+	"league_position": 8,
+	"match_cancellation": "False"
+}

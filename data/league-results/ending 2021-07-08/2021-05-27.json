@@ -1,0 +1,14 @@
+{
+	"date": "2021-05-27",
+	"season": "ending 2021-07-08",
+	"opposition": "Olympique de Chalk Farm",
+	"score": "2-3",
+	"GF": 2,
+	"GA": 3,
+	"goalscorers": {"Lorenzo":1, "Behdad":1},
+	"players": ["Mo", "Fred", "Chris", "James", "Jermin", "Lorenzo", "Alkeos", "Behdad"],
+	"keepers": ["James", "Mo"],
+	"points":0,
+	"league_position": 10,
+	"match_cancellation": "False"
+}

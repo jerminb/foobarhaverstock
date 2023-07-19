@@ -1,0 +1,19 @@
+{
+	"date": "2022-03-31",
+	"season": "ending 2022-05-05",
+	"opposition": "London FC",
+	"score": "3-1",
+    "interval scores": {"1st half":"1-1", "2nd half":"2-0"},
+	"GF": 3,
+	"GA": 1,
+	"goalscorers": {"Phil":1, "Alkeos": 1, "Lorenzo": 1},
+	"assists": {"James":2, "Lorenzo":1},
+	"players": ["James", "Matt", "Phil", "Lorenzo", "Elliot", "Fred", "Jermin", "Taiga", "Alkeos"],
+	"keepers": ["Matt"],
+	"points": 3,
+	"league_position": 8,
+	"match_cancellation": "False",
+	"formation": {"1st half":"2-3-1", "2nd half":"3-2-1"},
+    "PoM": "Lorenzo",
+	"notes": "We started well with a goal, but then conceded by our deep players trying a speculative pass through midfield that got turned over. We probably need to pass out using our wide players more. Also, we possibly need to be more selective when we play the long ball. Phil's movement upfront was excellent; moving into wide positions and dragging defenders out with him. The more he plays the more that our midfielders/wingers will know to run off him. We switched to a 3-2-1 in the 2nd half which helped to create width, though we were lucky not to concede in the 2nd half... Great to get the win though!"
+}

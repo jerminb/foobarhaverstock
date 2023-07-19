@@ -1,0 +1,18 @@
+{
+	"date": "2022-04-28",
+	"season": "ending 2022-05-05",
+	"opposition": "Two Jills One Nill",
+	"score": "3-4",
+    "interval scores": {"1st half":"0-3", "2nd half":"3-1"},
+	"GF": 3,
+	"GA": 4,
+	"goalscorers": {"Yomi": 2, "Craig": 1},
+	"assists": {"Jermin":2},
+	"players": ["James", "Matt", "Yomi", "Craig", "Jermin", "Fred", "Phil", "Lorenzo"],
+	"keepers": ["Matt", "Matt"],
+	"points": 0,
+	"league_position": 8,
+	"match_cancellation": "False",
+	"formation": {"1st half":"3-2-1", "2nd half":"3-2-1"},
+	"notes": "Another great performance, and a very aggressive game (Two Jills One Nill are bastards). The 3-2-1 formation worked really nicely, and we hung in there even though we went 3-0 down. A couple of unforced errors led to goals (one where we passed a ball to their attacker for a 1-1 with our keeper & another from a long ball over the top). Considering we got thrashed by these guys last game I think we can take a lot of positives from the match. Also, our attacking players probably needed to be a little more clinical (we missed a 1-1's & there were a few other spurned opportunities). Good game overall though... we can build of this."
+}

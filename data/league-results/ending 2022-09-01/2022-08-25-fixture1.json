@@ -1,0 +1,17 @@
+{
+	"date": "2022-08-25",
+	"season": "ending 2022-09-01",
+	"opposition": "Stag FC",
+	"score": "3-4",
+	"GF": 3,
+	"GA": 4,
+	"goalscorers": {"James":1, "Tom":1, "Zak":1},
+	"assists": {"Tom":1},
+	"players": ["James", "Tom", "Zak", "Fred", "Taiga"],
+	"keepers": ["Matt", "Matt"],
+	"points": 0,
+	"league_position": 8,
+	"match_cancellation": "False",
+	"formation": "",
+	"notes": "This fixture was a Foobar 7s first of back-to-back matches, with this being the first. Unfortunately, this was one of the sorest loses I think we've ever had. We were 2-3 up until the last minute, until we conceded 2 in the remaning minute. The 2 late goals we conceded were completely avoidable: the first was our backline lunging in & not keeping goalside of thier star CF, the 2nd was sloppy passing that led to a loss of possession in our half. Heartbreaking."
+}

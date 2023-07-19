@@ -1,0 +1,14 @@
+{
+	"date": "2021-06-17",
+	"season": "ending 2021-07-08",
+	"opposition": "Hackney Tropics",
+	"score": "1-8",
+	"GF": 1,
+	"GA": 8,
+	"goalscorers": {"Paz":1},
+	"players": ["Will", "Fred", "Alvaro", "James", "Tim", "Paz", "Alvaro", "Chris"],
+	"keepers": ["Will", "Alvaro"],
+	"points":0,
+	"league_position": 10,
+	"match_cancellation": "False"
+}

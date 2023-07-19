@@ -1,0 +1,17 @@
+{
+	"date": "2022-09-15",
+	"season": "ending 2022-12-15",
+	"opposition": "Olympique de Chalk Farm",
+	"score": "4-1",
+	"GF": 4,
+	"GA": 1,
+	"goalscorers": {"Taiga":1, "Craig":1, "Tom": 1, "Lenny": 1},
+	"assists": {"Lenny":1, "Fred":1, "Yomi":1},
+	"players": ["Yomi", "Matt", "Lenny", "Tom", "Fred", "Craig", "Taiga", "Jermin"],
+	"keepers": ["Matt", "Matt"],
+	"points": 3,
+	"league_position": 7,
+	"match_cancellation": "False",
+	"formation": "3-2-1",
+	"notes": "Fantastic performance. The wingbacks were well utilised with Lenny & Yomi pushing forward, and defensively we were sound. The single goal we conceded was a result to confusion during a substitution. Great finishing for all players."
+}

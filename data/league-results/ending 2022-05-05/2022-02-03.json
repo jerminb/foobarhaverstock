@@ -1,0 +1,17 @@
+{
+	"date": "2022-02-03",
+	"season": "ending 2022-05-05",
+	"opposition": "Olympique de Chalk Farm",
+	"score": "2-2",
+	"GF": 2,
+	"GA": 2,
+	"goalscorers": {"Lenny":1, "Phil":1},
+	"assists": {"Taiga":1, "Fred": 1},
+	"players": ["Phil", "Lenny", "Harry", "Jermin", "Taiga", "Fred", "Matt", "Alkeos"],
+	"keepers": ["Matt", "Matt"],
+	"points": 1,
+	"league_position": 7,
+	"match_cancellation": "False",
+	"formation": "2-3-1",
+	"notes": "A brilliant performance from Foobar. We passed out from the back excellently; Taiga, Fred & Jermin linked well with one another. A really even match, great finish from Phil & a spectacular volley from Lenny (Foobar's best goal yet). A good result considering we lost 0-6 to these guys last season."
+}
