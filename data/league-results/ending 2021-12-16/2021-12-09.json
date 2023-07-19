@@ -1,0 +1,16 @@
+{
+	"date": "2021-12-09",
+	"season": "ending 2021-12-16",
+	"opposition": "Hackney Tropics",
+	"score": "3-3",
+	"GF": 3,
+	"GA": 3,
+	"goalscorers": {"Tom":1, "Lenny":1},
+	"assists": {"Lenny":1},
+	"players": ["Tom", "Phil", "Lorenzo", "Alkeos", "Fred", "Chris", "Lenny", "James"],
+	"keepers": ["James", "James"],
+	"points": 1,
+	"league_position": 6,
+	"match_cancellation": "False",
+	"formation": "3-2-1"
+}

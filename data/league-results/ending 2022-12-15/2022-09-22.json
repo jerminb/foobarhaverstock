@@ -1,0 +1,17 @@
+{
+	"date": "2022-09-22",
+	"season": "ending 2022-12-15",
+	"opposition": "Murder on Zidanes floor",
+	"score": "2-1",
+	"GF": 2,
+	"GA": 1,
+	"goalscorers": {"Craig":1, "Zak":1},
+	"assists": {"Zak":1, "Craig":1},
+	"players": ["Yomi", "Matt", "Lenny", "Tom", "Fred", "Craig", "Taiga", "Jermin", "Zak"],
+	"keepers": ["Matt", "Matt"],
+	"points": 3,
+	"league_position": 7,
+	"match_cancellation": "False",
+	"formation": "3-2-1",
+	"notes": "Another great game. This was our first game where we decided as a team to use 2 subs. The midfielders were excellent at tracking back, and the defenders (as a whole) were good at holding their position when they were without the ball."
+}

@@ -1,0 +1,17 @@
+{
+	"date": "2023-01-19",
+	"season": "ending 2023-04-20",
+	"opposition": "London FC",
+	"score": "3-4",
+	"GF": 3,
+	"GA": 4,
+	"goalscorers": {"Yomi":2, "Lenny":1},
+	"assists": {"Zak":1},
+	"players": ["Yomi", "Matt", "Lenny", "Tom", "Taiga", "Craig", "Jermin", "Zak", "Lorenzo"],
+	"keepers": ["Matt", "Matt"],
+	"points": 0,
+	"league_position": 8,
+	"match_cancellation": "False",
+    "formation": {"1st half":"3-2-1", "2nd half":"2-2-2"},
+	"notes": "Hard one to take. We all wanted to kick this season off with a win (& continue our form), but London FC brought us back to reality. We had more possession, but didn't create enough convincing chances. They initially led by 2, but we had the character to pull it back to 3-3, but unfortunately they got the fourth. All of their goals were from counterattacks, & it seemed like they only had 5 shoots in the entire game. In the 2nd half when we were 1-3 down, we switched to a 2-2-2 which worked (Yomi went up front). We began pressing which led to one of Yomi's goals, there was a wonderful assist from Zak which was superbly vollyed in by Len. All the team had decent performances. Perhaps something we need to consider is being more cycnical during transitions & have one of CMs hold more when the team pushes forward."
+}

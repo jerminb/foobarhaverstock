@@ -1,0 +1,17 @@
+{
+	"date": "2022-05-19",
+	"season": "ending 2022-09-01",
+	"opposition": "R Gang FC",
+	"score": "4-5",
+	"GF": 4,
+	"GA": 5,
+	"goalscorers": {"James":1, "Yomi":2, "Alkeos": 1},
+	"assists": {"Yomi":1, "Taiga":1, "Craig": 1, "Fred":1},
+	"players": ["Yomi", "Matt", "Jermin", "Taiga", "Fred", "Craig", "Alkeos", "James"],
+	"keepers": ["Matt", "Matt"],
+	"points": 0,
+	"league_position": 8,
+	"match_cancellation": "False",
+	"formation": "3-2-1",
+	"notes": ""
+}

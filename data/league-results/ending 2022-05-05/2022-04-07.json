@@ -1,0 +1,18 @@
+{
+	"date": "2022-04-07",
+	"season": "ending 2022-05-05",
+	"opposition": "Olympique de Chalk Farm",
+	"score": "2-6",
+    "interval scores": {"1st half":"0-3", "2nd half":"2-3"},
+	"GF": 2,
+	"GA": 6,
+	"goalscorers": {"Bibi":1, "Alkeos": 1},
+	"assists": {"Bibi":1, "Taiga":1},
+	"players": ["James", "Matt", "Lorenzo", "Bibi", "Elliot", "Fred", "Taiga", "Alkeos"],
+	"keepers": ["Matt", "Matt"],
+	"points": 0,
+	"league_position": 8,
+	"match_cancellation": "False",
+	"formation": {"1st half":"3-2-1", "2nd half":"3-2-1"},
+	"notes": "Tough one. We set up using a 3-2-1, and we asked our wingbacks to help play out from the back, which meant we were really deep when we had the ball. With hindsight this was a tactical mistake, as it meant we had no forward pass to make. Also a handful of goalkeeping mistakes from long balls that were disappointing."
+}

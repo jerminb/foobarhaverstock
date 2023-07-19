@@ -1,0 +1,14 @@
+{
+	"date": "2021-08-05",
+	"season": "ending 2021-09-23",
+	"opposition": "SSEES Seniors",
+	"score": "2-4",
+	"GF": 2,
+	"GA": 4,
+	"goalscorers": {"James":2},
+	"players": ["Taiga", "Ringer", "Lorenzo", "James", "Tim", "Fred", "Alkeos"],
+	"keepers": ["Tim", "Alkeos"],
+	"points": 0,
+	"league_position": 8,
+	"match_cancellation": "False"
+}

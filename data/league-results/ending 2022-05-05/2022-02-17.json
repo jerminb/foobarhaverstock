@@ -1,0 +1,17 @@
+{
+	"date": "2022-02-17",
+	"season": "ending 2022-05-05",
+	"opposition": "Atleti De Izzy",
+	"score": "1-5",
+	"GF": 1,
+	"GA": 5,
+	"goalscorers": {"Alkeos":1},
+	"assists": {"Tom":1},
+	"players": ["Alkeos", "Lenny", "James", "Tom", "Taiga", "Fred", "Lorenzo", "Elliot", "Vel"],
+	"keepers": ["Elliot", "Elliot"],
+	"points": 0,
+	"league_position": 8,
+	"match_cancellation": "False",
+	"formation": "2-3-1",
+	"notes": "Tough game this one. Atleti were organised & pressed us well (our ball recievers were always under pressure). On reflection, we sat off them too much, & didn't create many opportunities. Not a bad team performance though; Alkeos's goal was nicely taken. We possibly need to press when we're in a 2-3-1 formation."
+}

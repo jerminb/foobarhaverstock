@@ -1,0 +1,14 @@
+{
+	"date": "2021-09-02",
+	"season": "ending 2021-09-23",
+	"opposition": "Real Bars",
+	"score": "5-1",
+	"GF": 5,
+	"GA": 1,
+	"goalscorers": {"James":1, "Chris":1, "Lenny":2, "Alkeos":1},
+	"players": ["Chris", "Jermin", "Behdad", "James", "Alvaro", "Fred", "Alkeos", "Lenny"],
+	"keepers": ["Fred", "Fred"],
+	"points": 3,
+	"league_position": 7,
+	"match_cancellation": "False"
+}

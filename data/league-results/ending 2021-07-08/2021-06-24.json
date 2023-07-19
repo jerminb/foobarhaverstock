@@ -1,0 +1,14 @@
+{
+	"date": "2021-06-24",
+	"season": "ending 2021-07-08",
+	"opposition": "Atleti De Izzy",
+	"score": "1-5",
+	"GF": 1,
+	"GA": 5,
+	"goalscorers": {"Paz":1},
+	"players": ["Sam", "Alkeos", "Alvaro", "James", "Jermin", "Paz", "Alvaro", "Chris"],
+	"keepers": ["Jermin", "Jermin"],
+	"points":0,
+	"league_position": 10,
+	"match_cancellation": "False"
+}

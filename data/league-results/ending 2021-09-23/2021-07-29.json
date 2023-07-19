@@ -1,0 +1,14 @@
+{
+	"date": "2021-07-29",
+	"season": "ending 2021-09-23",
+	"opposition": "Sparkling Pace",
+	"score": "1-1",
+	"GF": 1,
+	"GA": 1,
+	"goalscorers": {"Tom":1},
+	"players": ["Mo", "Tom", "Lorenzo", "James", "Tim", "Behdad", "Alkeos", "Lenny"],
+	"keepers": ["James", "Alkeos"],
+	"points":1,
+	"league_position": 8,
+	"match_cancellation": "False"
+}

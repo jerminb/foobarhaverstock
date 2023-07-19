@@ -1,0 +1,17 @@
+{
+	"date": "2022-01-13",
+	"season": "ending 2022-05-05",
+	"opposition": "Deadly Venoms",
+	"score": "3-7",
+	"GF": 3,
+	"GA": 7,
+	"goalscorers": {"Chris":1, "Tom":1},
+	"assists": {"Fred":1, "Tom":1, "Chris":1},
+	"players": ["Tom", "Matt", "Matei", "Jermin", "Lorenzo", "Fred", "Chris", "Alkeos", "James"],
+	"keepers": ["Matt", "Matt"],
+	"points": 0,
+	"league_position": 9,
+	"match_cancellation": "False",
+	"formation": "3-2-1",
+	"notes": "Disappointing performance, especially as we've beaten these guys over the last couple of seasons. Little movement, communication, & our players shyed away from the ball being played to them. We were also defensively sloppy."
+}

@@ -1,0 +1,16 @@
+{
+	"date": "2021-12-16",
+	"season": "ending 2021-12-16",
+	"opposition": "Deadly Venoms",
+	"score": "2-0",
+	"GF": 2,
+	"GA": 0,
+	"goalscorers": {"Harry":2},
+	"assists": {},
+	"players": ["Tom", "Elliot", "Harry", "Taiga", "Fred", "Chris", "Lenny", "Tushea"],
+	"keepers": ["Elliot", "Elliot"],
+	"points": 3,
+	"league_position": 5,
+	"match_cancellation": "False",
+	"formation": "3-2-1"
+}

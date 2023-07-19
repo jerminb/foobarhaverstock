@@ -1,0 +1,17 @@
+{
+	"date": "2022-03-10",
+	"season": "ending 2022-05-05",
+	"opposition": "Hackney Tropics",
+	"score": "3-10",
+	"GF": 3,
+	"GA": 10,
+	"goalscorers": {"Lenny":2, "Alkeos":1},
+	"assists": {"Fred":1, "Harry":1},
+	"players": ["Alkeos", "Matt", "James", "Harry", "Lenny", "Lorenzo", "Fred", "Jermin"],
+	"keepers": ["Matt", "Matt"],
+	"points": 0,
+	"league_position": 9,
+	"match_cancellation": "False",
+	"formation": "3-2-1",
+	"notes": "We tried to play out from the back, which with hindsight was mistake against Hackney Tropics (where in recent games we've played a long balls that proved quite successful). Our passing was poor & we often lost the ball in our half. Our movement in midfield was static, which made passing harder. Going forward we were good, with some quality finishing from Len & Alkeos."
+}

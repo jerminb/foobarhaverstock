@@ -1,0 +1,15 @@
+{
+	"date": "2021-10-14",
+	"season": "ending 2021-12-16",
+	"opposition": "Sparkling Pace",
+	"score": "3-2",
+	"GF": 3,
+	"GA": 2,
+	"goalscorers": {"James":1, "Paz":2},
+	"assists": {"Tim":1, "ALkeos":1},
+	"players": ["Lenny", "Paz", "James", "Alvaro", "Mo", "Lorenzo", "Tim", "Alkeos"],
+	"keepers": ["Lenny", "Lenny"],
+	"points": 3,
+	"league_position": 6,
+	"match_cancellation": "False"
+}

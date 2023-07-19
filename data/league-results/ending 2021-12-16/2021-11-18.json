@@ -1,0 +1,15 @@
+{
+	"date": "2021-11-18",
+	"season": "ending 2021-12-16",
+	"opposition": "SSEES Seniors",
+	"score": "1-1",
+	"GF": 1,
+	"GA": 1,
+	"goalscorers": {},
+	"assists": {"Fred":1},
+	"players": ["Mo", "Tom", "Jermin", "Fred", "Lenny", "Behdad", "James", "Lorenzo"],
+	"keepers": ["Tom", "Tom"],
+	"points": 1,
+	"league_position": 6,
+	"match_cancellation": "False"
+}

@@ -1,0 +1,17 @@
+{
+	"date": "2022-01-27",
+	"season": "ending 2022-05-05",
+	"opposition": "London FC",
+	"score": "4-0",
+	"GF": 4,
+	"GA": 0,
+	"goalscorers": {"James":1, "Harry":1, "Jonti": 2},
+	"assists": {"James":1, "Jonti": 1},
+	"players": ["Jonti", "Lenny", "Harry", "Jermin", "James", "Fred", "Elliot", "Alkeos"],
+	"keepers": ["Elliot", "Elliot"],
+	"points": 3,
+	"league_position": 7,
+	"match_cancellation": "False",
+	"formation": "2-3-1",
+	"notes": "We decided to go with a 2-3-1 formation (over our usual 3-2-1). The formation worked well, but hard to know whether it was down to the opposition or the formation. The opposition weren't comfortable with the ball at the back, so we played high up the pitch. Halftime score was 0-0, but we finished well in the 2nd half & we didn't give them any chances. A comfortable win compared to last season which was a tight 3-2 win."
+}

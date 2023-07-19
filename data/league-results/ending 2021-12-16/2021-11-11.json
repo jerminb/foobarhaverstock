@@ -1,0 +1,16 @@
+{
+	"date": "2021-11-11",
+	"season": "ending 2021-12-16",
+	"opposition": "Atleti De Izzy",
+	"score": "0-4",
+	"GF": 0,
+	"GA": 4,
+	"goalscorers": {},
+	"assists": {},
+	"players": ["Chris", "Tom", "Jermin", "Fred", "Taiga", "Behdad", "Harry", "Lorenzo"],
+	"keepers": ["Fred", "Fred"],
+	"points": 0,
+	"league_position": 6,
+	"match_cancellation": "False",
+	"formation": "2-3-1"
+}

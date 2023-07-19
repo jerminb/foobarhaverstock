@@ -1,0 +1,17 @@
+{
+	"date": "2022-01-06",
+	"season": "ending 2022-05-05",
+	"opposition": "Hackney Tropics",
+	"score": "2-2",
+	"GF": 2,
+	"GA": 2,
+	"goalscorers": {"Chris":1, "Lenny":1},
+	"assists": {"Harry":1, "Chris":1},
+	"players": ["Tom", "Matt", "Harry", "Chris", "Fred", "Phil", "Lenny", "James"],
+	"keepers": ["Matt", "Matt"],
+	"points": 1,
+	"league_position": 6,
+	"match_cancellation": "False",
+	"formation": "3-2-1",
+	"notes": "An excellent performance. We were resolute in defence (tight, compact & man-marked thier danger men), & took our chances on the counterattack. We were 2-1 up until the last minute in which we conceded an aviodable goal. Overall though a stellar team performance."
+}

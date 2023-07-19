@@ -1,0 +1,15 @@
+{
+	"date": "2021-10-07",
+	"season": "ending 2021-12-16",
+	"opposition": "Unprotected Cesc Thursday",
+	"score": "3-6",
+	"GF": 3,
+	"GA": 6,
+	"goalscorers": {"Tom":1, "Alkeos":1, "Behdad":1},
+	"assists": {"Alvaro":1, "Alkeos":1},
+	"players": ["James", "Jermin", "Tom", "Alvaro", "Mo", "Behdad", "Fred", "Alkeos"],
+	"keepers": ["James", "James"],
+	"points": 0,
+	"league_position": 9,
+	"match_cancellation": "False"
+}

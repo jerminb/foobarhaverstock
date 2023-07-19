@@ -1,0 +1,17 @@
+{
+	"date": "2022-10-20",
+	"season": "ending 2022-12-15",
+	"opposition": "Hackney Tropics",
+	"score": "2-3",
+	"GF": 2,
+	"GA": 3,
+	"goalscorers": {"Paz":1, "Tom":1},
+	"assists": {"Zak":1, "Lenny":1},
+	"players": ["Yomi", "Matt", "Tom", "Fred", "Paz", "Lenny", "Jermin", "Zak", "Craig"],
+	"keepers": ["Matt", "Matt"],
+	"points": 0,
+	"league_position": 7,
+	"match_cancellation": "False",
+	"formation": "3-2-1",
+	"notes": "The old derby. We're developing a history against Hackney, & this didn't disappoint. We performed well overall, & having Paz back allowed us retain the ball & dictate play more than we've ever been able to against Hackney (where we usually play deep & rely on repeated long balls over thier midfield). Unfortunately  they translated their few counterattacks to a couple of goals, & we conceded from a corner by being too static. One of the goals we conceded was down to a lack of disapline by lunging in. Got work on minimising those unforced errors. Lovely headed goal from Paz."
+}

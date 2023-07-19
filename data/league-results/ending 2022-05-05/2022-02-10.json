@@ -1,0 +1,17 @@
+{
+	"date": "2022-02-10",
+	"season": "ending 2022-05-05",
+	"opposition": "Sparkling Pace",
+	"score": "4-4",
+	"GF": 4,
+	"GA": 4,
+	"goalscorers": {"Lenny":1, "James":1, "Taiga":1, "Matt":1},
+	"assists": {"James":2, "Taiga":1, "Fred": 1},
+	"players": ["Phil", "Lenny", "James", "Jermin", "Taiga", "Fred", "Matt"],
+	"keepers": ["Jermin", "Jermin"],
+	"points": 1,
+	"league_position": 7,
+	"match_cancellation": "False",
+	"formation": "2-3-1",
+	"notes": "This draw felt like a loss (especially as we were 2-0 in the first 10mins). Our performance in possession was generally good; our goals were well worked. We made a few mistakes defensively, one of which led to an own goal. Their other 3 goals were scored by their best player (Zack), all of which we preventable - one was speculative long shot, one was when he was left unmarked for a 1-on-1 & the final was made from an impossible angle. Felt bad for Jermin as he was injured (he was a trooper for even playing). Finally hard one to evaluate since many of our players played out of their positions (Phil CF->CB, Matt GK->CF & Jermin CB->GK). We were shaking passing out from the back & took to many touches."
+}

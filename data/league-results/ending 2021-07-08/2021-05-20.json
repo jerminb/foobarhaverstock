@@ -1,0 +1,14 @@
+{
+	"date": "2021-05-20",
+	"season": "ending 2021-07-08",
+	"opposition": "Sparkling Pace",
+	"score": "3-5",
+	"GF": 3,
+	"GA": 5,
+	"goalscorers": {"Lorenzo":1, "Lenny":1, "Bedhdad":1},
+	"players": ["Mo", "Tim", "Chris", "Lenny", "Jermin", "Lorenzo", "Alkeos", "Behdad"],
+	"keepers": ["Tim", "Jermin"],
+	"points":0,
+	"league_position": 9,
+	"match_cancellation": "False"
+}

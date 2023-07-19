@@ -1,0 +1,16 @@
+{
+	"date": "2021-10-28",
+	"season": "ending 2021-12-16",
+	"opposition": "Two Jills One Nill",
+	"score": "5-4",
+	"GF": 5,
+	"GA": 4,
+	"goalscorers": {"James":1, "Tom":1, "Fred":1, "Harry":2},
+	"assists": {"Alkeos":3, "Tom":1},
+	"players": ["Jonny", "Tom", "James", "Fred", "Taiga", "Behdad", "Harry", "Alkeos"],
+	"keepers": ["Jonny", "Jonny"],
+	"points": 3,
+	"league_position": 4,
+	"match_cancellation": "False",
+	"formation": "3-2-1"
+}
